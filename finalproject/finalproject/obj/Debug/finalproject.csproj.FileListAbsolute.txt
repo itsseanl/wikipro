@@ -1,0 +1,16 @@
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\Sean\Desktop\advprog\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sean\Desktop\Miscellaneous\advprog\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
