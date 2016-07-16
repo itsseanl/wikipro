@@ -1,4 +1,5 @@
 # wikipro
-Final Project for a C# programming class, wikipro allows you to save wikipedia pages with notes.
+For my Advanced Programming Techniques class, I needed to create an application that would incorporate multi-threading and the saving of data. In order to fulfill these requirements, I came up with WikiPro - a tool that allows you to save wikipedia page links as well as notes taken in the app. You navigate wikipedia within a webview control in the application. When you save a page, a link to it appears under the ‘saved pages’ tab. Clicking on it will not only bring you to the page, but will open any saved notes you have in the  ‘Notes’ tab. You can update the notes by going to the ‘Save/Delete’ tab and hitting save. You can also hit the button at the top to load a random wikipedia page. 
 
-WikiPro is a windows forms application, written in c# with visual studio.
+While many regard wikipedia as a less than accurate source of information, it is often times a decent starting point for learning. Being able to save pages along with notes in one place makes that information gathering convenient, and helps you avoid the temptation of traveling to other pages that you will face while using a full browser. 
+
